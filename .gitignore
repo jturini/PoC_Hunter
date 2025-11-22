@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+
+
+config.json
+exploitdb.csv
+cisa_kev.json
+.pochunter/
+
+
+venv/
+env/
